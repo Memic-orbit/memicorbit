@@ -1,0 +1,14 @@
+### Install
+
+.bundle/
+vendor/
+
+### Build
+
+.jekyll-cache/
+.jekyll-metadata
+build/
+
+Gemfile.lock
+
+_site/

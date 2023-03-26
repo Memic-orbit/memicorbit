@@ -1,0 +1,11 @@
+Memic Orbit:
+  name: Memic Orbit 
+  bio         : "Consultancy company focusing on functional programming and software architecture"
+  avatar      : "/images/memic-orbit.png"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://memicorbit.com/"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/memic-orbit"
